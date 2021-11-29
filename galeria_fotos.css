@@ -1,0 +1,200 @@
+*{
+    box-sizing: border-box;
+    margin-top: auto;
+}
+header h2{
+    background-color: #ff9933;
+    font-weight: bold;
+    font-size: xx-large;
+    font-family:'Quicksand', sans-serif;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgb(51, 21, 1);
+    color: rgb(126, 56, 10);
+    padding: 1rem;
+    margin-bottom: 0;
+}
+#container{
+    margin-top: 0;
+    display: grid;
+    grid-template-columns: 4fr;
+    background-color: #ffb055;
+    height: auto;
+}
+img{
+    display: flex;
+}
+h4{
+    margin-top: 1rem;
+    font-family:'Quicksand', sans-serif;
+    color: rgb(126, 56, 10);
+    font-size: x-large;
+    margin-bottom: 1rem;
+    margin-left: 2rem;
+    text-shadow: 0 1px 3px rgb(51, 21, 1);
+}
+p{
+    font-family:'Quicksand', sans-serif;
+    color: rgb(129, 52, 0);
+    float: left;
+    margin-top: 1rem;
+    font-weight:bold;
+    font-size: large;
+    margin-bottom: 1rem;
+    margin-left: 5rem;
+    text-align: center;
+    
+}
+.img_zona1_1{
+    width: 400px;
+    height: 20rem;
+    padding: 1rem;
+    margin: 0.5rem;
+    margin-left: 3rem;
+    background-color: rgb(14, 13, 13);
+    background-image: url(./imagenes/img_zona1_1.jpg);
+    border-radius: 1rem;
+    float: left;
+    box-shadow: 1px 1px 3px #292929;
+}
+.img_zona1_2{
+    width: 400px;
+    height: 20rem;
+    padding: 1rem;
+    margin: 0.5rem;
+    background-color: rgb(14, 13, 13);
+    background-image: url(./imagenes/img_zona1_2.jpg);
+    border-radius: 1rem;
+    float: left;
+    box-shadow: 1px 1px 3px #292929;
+    background-repeat: no-repeat;
+    background-position: cover;
+}
+.img_zona1_3{
+    width: 400px;
+    height: 20rem;
+    padding: 1rem;
+    margin: 0.5rem;
+    background-color: rgb(14, 13, 13);
+    background-image: url(./imagenes/img_zona1_4.jpg);
+    border-radius: 1rem;
+    float: left;
+    box-shadow: 1px 1px 3px #292929;
+}
+
+.img_zona2_1{
+    width: 400px;
+    height: 20rem;
+    padding: 1rem;
+    margin: 0.5rem;
+    margin-left: 3rem;
+    background-color: rgb(14, 13, 13);
+    background-image: url(./imagenes/img_zona2_1.jpg);
+    border-radius: 1rem;
+    float: left;
+    box-shadow: 1px 1px 3px #292929;
+
+}
+.img_zona2_2{
+    width: 400px;
+    height: 20rem;
+    padding: 1rem;
+    margin: 0.5rem;
+    background-color: rgb(14, 13, 13);
+    background-image: url(./imagenes/img_zona2_2.jpg);
+    border-radius: 1rem;
+    float: left;
+    box-shadow: 1px 1px 3px #292929;
+}
+.img_zona2_3{
+    width: 400px;
+    height: 20rem;
+    padding: 1rem;
+    margin: 0.5rem;
+    background-color: rgb(14, 13, 13);
+    background-image: url(./imagenes/img_zona2_3.jpg);
+    border-radius: 1rem;
+    float: left;
+    box-shadow: 1px 1px 3px #292929;
+}
+
+.img_zona3_1{
+    width: 400px;
+    height: 20rem;
+    padding: 1rem;
+    margin: 0.5rem;
+    margin-left: 3rem;
+    background-color: rgb(14, 13, 13);
+    background-image: url(./imagenes/img_zona3_1.jpg);
+    border-radius: 1rem;
+    float: left;
+    box-shadow: 1px 1px 3px #292929;
+
+}
+.img_zona3_2{
+    width: 400px;
+    height: 20rem;
+    padding: 1rem;
+    margin: 0.5rem;
+    background-color: rgb(14, 13, 13);
+    background-image: url(./imagenes/img_zona3_2.jpg);
+    border-radius: 1rem;
+    float: left;
+    box-shadow: 1px 1px 3px #292929;
+}
+.img_zona3_3{
+    width: 400px;
+    height: 20rem;
+    padding: 1rem;
+    margin: 0.5rem;
+    background-color: rgb(14, 13, 13);
+    background-image: url(./imagenes/img_zona3_3.jpg);
+    border-radius: 1rem;
+    float: left;
+    box-shadow: 1px 1px 3px #292929;
+}
+
+.img_zona4_1{
+    width: 400px;
+    height: 20rem;
+    padding: 1rem;
+    margin: 0.5rem;
+    margin-left: 3rem;
+    background-color: rgb(14, 13, 13);
+    background-image: url(./imagenes/img_zona4_1.jpg);
+    border-radius: 1rem;
+    float: left;
+    box-shadow: 1px 1px 3px #292929;
+
+}
+.img_zona4_2{
+    width: 400px;
+    height: 20rem;
+    padding: 1rem;
+    margin: 0.5rem;
+    background-color: rgb(14, 13, 13);
+    background-image: url(./imagenes/img_zona4_2.jpg);
+    border-radius: 1rem;
+    float: left;
+    box-shadow: 1px 1px 3px #292929;
+}
+.img_zona4_3{
+    width: 400px;
+    height: 20rem;
+    padding: 1rem;
+    margin: 0.5rem;
+    background-color: rgb(14, 13, 13);
+    background-image: url(./imagenes/img_zona4_3.jpg);
+    border-radius: 1rem;
+    float: left;
+    box-shadow: 1px 1px 3px #292929;
+}
+.final{
+    background-color: #ff9933;
+    width: auto;
+    height: 5rem;
+}
+.textfinal{
+    margin-left: 0;
+    font-size: small;
+    border-radius: 5rem;
+}
